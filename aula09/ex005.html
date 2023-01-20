@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiros Passos com DOM</title>
+    <style>
+        body{
+            background-color: purple;
+            color:white;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 18pt;
+        }
+    </style>
+</head>
+<body>
+    <h1>Trabalhando com DOM</h1>
+    <p id="p1">Este é o <strong>primeiro</strong> parágrafo de exemplo</p>
+    <p name="p2">Este é o <strong>segundo</strong> parágrafo de exemplo</p>
+    <div class="div1">Esta é uma div de exemplo</div>
+
+    <h2>Selecionando elementos no DOM</h2>
+    <h3>Utilizando <strong>marcas</strong></h3>
+    <script>
+        var p1 = window.document.getElementsByTagName("p")[0].innerHTML
+        var p2 = window.document.getElementsByTagName("p")[1].innerText
+        window.document.write(`Este é o parágrafo 1: ${p1}`)
+        window.alert(`Este é parágrafo 2: ${p2}`)
+    </script>
+
+    <h3>Utilizando <strong>ID</strong></h3>
+    <script>
+        var p3 = window.document.getElementById("p1").innerHTML
+        window.document.write(`Este é o parágrafo 3: ${p3}`)
+
+    </script>
+
+    <h3>Utilizando <strong>Nome</strong></h3>
+    <script>
+        var p4 = window.document.getElementsByName("p2")[0].innerHTML
+        window.document.write(`Este é o parágrafo 4: ${p4}`)
+
+    </script>
+
+    <h3>Utilizando <strong>Classes</strong></h3>
+    <script>
+        var div1 = window.document.getElementsByClassName("div1")[0].innerHTML
+        window.document.write(`Este é a div 1: ${div1}`)
+    </script>
+
+    <h3>Utilizando <strong>Seletores</strong></h3>
+    <script>
+        var seletor1 = window.document.querySelector("div.div1").innerHTML
+        window.document.write(`Este é o seletor 1: ${seletor1}`)
+
+    </script>
+
+    
+</body>
+</html>
