@@ -10,5 +10,12 @@
 - [Exercício 5](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula09/ex005.html)
 - [Exercício 6](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula10/ex006.html)
 - [Exercício 7](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula10/ex007.html)
+- [Exercício 8](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula11/ex008.js)
+- [Exercício 9](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula11/ex009.js)
+- [Exercício 10](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula11/ex010.html)
+- [Exercício 11](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula12/ex011.js)
+- [Exercício 12](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula12/ex012.js)
+- [Exercício 13](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula12/ex013.js)
+
 
 
