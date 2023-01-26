@@ -18,6 +18,9 @@
 - [Exercício 13](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula12/ex013.js)
 - [Exercício 14](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula12-exercicios/ex014)
 - [Exercício 15](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula12-exercicios/ex015)
+- [Exercício 16](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula14-exercicios/ex016)
+- [Exercício 17](https://github.com/GabrielYuriRF0/curso-javascript/blob/main/aula14-exercicios/ex017)
+
 
 
 
