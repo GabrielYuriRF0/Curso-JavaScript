@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(0,191,255);
+    font: normal 14pt Arial;
+   
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.247);
+}
+select#list{
+    width: 170px;
+    height: 100px;
+    
+}
+
+div#result{
+    text-align: left;
+    padding-top: 10pt;
+}
+
+header{
+    text-align: center;
+    color:white
+}
+
+footer{
+    text-align: center;
+    padding-top: 160pt;
+    color: white;
+    font-style: italic;
+}
+
